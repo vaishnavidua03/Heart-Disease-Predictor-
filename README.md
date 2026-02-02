@@ -164,9 +164,3 @@ Extracted insights from the Random Forest model:
 
 ## 👤 Author
 Vaishnavi Dua
-
-[Add your LinkedIn, GitHub profile, or portfolio links]
-
----
-
-*This project demonstrates practical machine learning skills applied to a critical healthcare challenge, showcasing the journey from raw medical data to an interpretable predictive model with actionable insights.*
